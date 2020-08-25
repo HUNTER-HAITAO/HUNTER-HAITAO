@@ -1,5 +1,5 @@
 ## 基于GItFlow模型的研发流程
-目前比较流行的分支管理模型有三个，即GitFlow、GitLabFlow、GitHubFlow。结合我们项目发布的实际情况，选用Git Flow流程。
+目前比较流行的分支管理模型有三个，即GitFlow、GitLabFlow、GitHubFlow。结合我们项目发布的实际情况，选用Git Flow模型。
 
 ### Git Flow 流程图
 ![avatar][GitFlow.png]
