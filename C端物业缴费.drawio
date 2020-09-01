@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T08:49:38.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ZQksklBFuZhiWCEyuZ3a" version="13.6.6" type="github"><diagram id="r-WaH7aXal8CS3bh0y-b" name="Page-1">7Vrbcts2EP0aPDbDu8BHUqKSziQdT92ZtI+0CElMKYGBqNjq13cXgMQLKFmWxNSp8+IBFuAC3nPOYgGbuOPV03uRlstPPGMFcazsibgT4jihF8BPNOyUwfc8ZViIPFMmuzbc5/8wbbS0dZtnbNOaWHFeVHnZNs74es1mVcuWCsEf29PmvGivWqYLZhjuZ2lhWj/nWbVUVuqMavsHli+W+5XtIFQjq3Q/Wf8mm2Wa8ceGyU2IOxacV6q1ehqzAmO3j4v6bnpk9LAxwdbVOR88/Xb/5fOmtD+5C+/rg8ho9OGPX7SXb2mx1b8wSXwSj0lISTIioUfCKUkCEnskjtECQ9BOqLSEODlKSOTgHArGEc6JYhJNiRMUsK/4QUBrga2oLHF36N8idCpnUkJjaYnQouJU7fbBh5CV2Nyuio/5nBX5GnpxyUS+YhUTMFJo811tix+XecXuy3SGnz4CK8G2rFYF9GxoAlOqFD4Rh35RpOUmf5CrWmARbLYVm/wb+51tFCHRyrcVrjQ+EA2NOnxMVOzpKC72AW1QCeOwT7GDKfoDV/Nj1+4+1myzLW1bNpjm7iemmuGLg+eaBNDQPHgBJ/bcbpKii0wjniXP15Xcgx8Tf9IBiItqyRd8nRZNiM4K23HCHo2l57diOaI9sTRD6QSDhfJaeQUkHBM6wa9oRCK7Ia+3qJUDfC8VSzgYwp4BcXT3q40bs3RiA5QRRwA0aCAr0Yf8BxaayMTpYwoMA5lKIaf62hK5p9SH4czhuIqKfLEG2wOvKr6CAbbOIjz/0Fbw2d8HAFhmnHjPaM45iYn1zrIcU2hUR1ywIq2AH+2TuQcGvcAdppPau98G3La8tocN34oZ0x81T7+OHyhF3vmnXVWpWLDqhKv9RD6fb1hlUOcQmivYRF9x6j1Ng9eWet2+UKqSZM4lnJDMuJAjwdctVmEQG3c+tyzMILVJFS8NCQckgiydSHlOSAg6BfsE21iBxVr49VCM6lbGCKTt6Pk4amp/Kk+Had3Qe4YYqG3r7bzOlDC4/h2b3kr/hqsj+r+Vtvc3oR9Q210QRv5Z4vaG0rbXU6Hqa4WNooIjk/r7K8lU6g2Kp1H//QU0BqOq0gJh4+SprLQC9NZTaaFa7nW3xiGprc0KKtUiLNgcdbuBUitfLz7K3sTpF6Xg23XGMl02AXBi96d2Jzt/tQoqQ7yKx2cw8VJWXCvpjg698yQNUUp3jWlaIEeXoVbvMjXvlMObatzt4SXFQ0PRMQw11aCLdDSrwmdLvzdR5h/K9ZeW+dZgGac/4YwkVhTTBR1rPKOpPvXxjvcTT6n40WvD0+/FM/KkLEGNtjwBVFWmLt2+vKz9xFMW9/5rw9Ppe8jsvVnfpCLoPm3qch2c42RKwkg3IA3AjSAJSTiRr6QjXBQ9xH13hPNuGXqt8FT1eOM7wBE63L7cp93rfnhWbWCW+8EzjgYu9p2w/8BISKj4SLFa7WGfyZTrQOYlg6E4SzdLWVGqInL/hxZ6FfxXYu15HYz84EZgdx0NDLZrnib4Bui78tZvZiEjRZgZ5r98A/xuYncCr40bvVDtnms87nVdDU2Bnst9j95N5OVFIHTlsWPJN6Q3o3fHti+D2/HNtxz7+8Ldk96velw0nv0Gfv/7kWgSXPrkZ9Kk62roJ7+eN+hEFqD4NyFQPFwSk8Heqf4/lOge8O6llBh1GWF4upgR0K3/l0NNr/8hxk3+BQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-01T08:49:58.030Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Agol3UaS-M6NbgWbF4YP" version="13.6.6" type="github">
+  <diagram id="r-WaH7aXal8CS3bh0y-b" name="Page-1">
+    <mxGraphModel dx="946" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-1" value="弘生活缴费客户端&lt;br&gt;App/小程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="30" width="100" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="xNSjWsp1M3g4qbrd8AHT-1" vertex="1">
+          <mxGeometry x="45" y="78" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-2" value="弘生活缴费服务端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="30" width="100" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-24" value="API130 应收费用获取接口" style="html=1;verticalAlign=bottom;endArrow=block;" parent="xNSjWsp1M3g4qbrd8AHT-2" edge="1">
+          <mxGeometry x="0.0028" width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="104" as="sourcePoint" />
+            <mxPoint x="229.5" y="104" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="xNSjWsp1M3g4qbrd8AHT-2" vertex="1">
+          <mxGeometry x="45" y="78" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-38" value="&lt;font color=&quot;#ff0000&quot;&gt;收款单位 + 单价 如何获取？？&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="xNSjWsp1M3g4qbrd8AHT-2" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="218" as="sourcePoint" />
+            <mxPoint x="229.5" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="xNSjWsp1M3g4qbrd8AHT-2" vertex="1">
+          <mxGeometry x="50" y="275" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-47" value="封装房产缴费基本信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="xNSjWsp1M3g4qbrd8AHT-2" target="xNSjWsp1M3g4qbrd8AHT-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="248" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-3" value="超智慧收费接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="30" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-4" value="工行支付接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="30" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-5" value="大象发票接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="750" y="30" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-21" value="获取房产缴费基本信息&lt;br&gt;（业主+面积+单价+收款单位）" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="80" y="109" as="sourcePoint" />
+            <mxPoint x="260" y="109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-29" value="得到缴费面积" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="156" as="sourcePoint" />
+            <mxPoint x="260" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-35" value="API153 获取业主信息接口" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="264" y="189" as="sourcePoint" />
+            <mxPoint x="439.5" y="189" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-36" value="得到业主姓名" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="211" as="sourcePoint" />
+            <mxPoint x="259.5" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-39" value="&lt;font color=&quot;#ff0000&quot;&gt;？？？&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="268" as="sourcePoint" />
+            <mxPoint x="259.5" y="268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNSjWsp1M3g4qbrd8AHT-48" value="返回房产缴费基本信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="368" as="sourcePoint" />
+            <mxPoint x="79.5" y="368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
